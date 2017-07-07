@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import CommentList from './comment_list';
 
 export default class CommentBox extends Component {
 
